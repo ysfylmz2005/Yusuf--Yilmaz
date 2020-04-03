@@ -21,5 +21,10 @@ Ingredients for Cacao pudding
  
 
 Firstly, put all your ingredients except vanilla and butter in to a large pot. Then beat them in to a mixture. When the mixture becomes smooth, put the pan on medium-heat and mix its contents. When your mixture boils add vanilla and butter. Next, process the pudding through a blender. Finally, put the pudding in to bowls and serve after you’ve waited for them to cool down.
+2.odev
+My family index:
 
-
+My father:27.04
+My mother:24.98
+My sister:13.52
+Me:19.27
